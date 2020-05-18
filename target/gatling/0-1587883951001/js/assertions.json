@@ -1,0 +1,10 @@
+{
+  "simulation": "basic.MyFirstGatlingTest",
+  "simulationId": "0",
+  "start": 1587883951001,
+  "description": "",
+  "scenarios": ["HomePageSimulation"],
+  "assertions": [
+
+  ]
+}

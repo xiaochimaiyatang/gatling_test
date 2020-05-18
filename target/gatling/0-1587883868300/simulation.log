@@ -1,0 +1,4 @@
+RUN	basic.MyFirstGatlingTest	0	myfirstgatlingtest	1587883868300	 	2.0
+USER	HomePageSimulation	1	START	1587883869559	1587883869559
+REQUEST	HomePageSimulation	1		Home page request	1587883869579	1587883869599	OK	 
+USER	HomePageSimulation	1	END	1587883869559	1587883874620
